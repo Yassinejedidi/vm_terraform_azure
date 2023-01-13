@@ -7,3 +7,7 @@ terraform plan
 
 terraform apply
 
+# after the apply in your azure account should look like this
+
+![23-01-13 16 34 38](https://user-images.githubusercontent.com/86331971/212363778-b2722f32-31fb-4292-99f1-e8575a8b8008.jpg)
+
